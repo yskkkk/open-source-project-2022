@@ -8,9 +8,6 @@ public class Hello
 
 		System.out.println("y="+y);
 
-		/*
-		for(int=0;i<xx.length;i++)
-			System.out.println(xx[i]);
-		*/
+		
 		}
 }
